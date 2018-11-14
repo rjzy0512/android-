@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\22375\.android\build-cache\cb9cb6dc96def46f07c9fad37f1950666e4ea4e2\output\assets"/></dataSet><dataSet config="main"><source path="C:\Users\22375\Desktop\AndroidCar\app\src\main\assets"/><source path="C:\Users\22375\Desktop\AndroidCar\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\22375\Desktop\AndroidCar\app\src\debug\assets"/></dataSet></merger>

@@ -1,0 +1,4 @@
+#Thu Mar 29 11:18:08 CST 2018
+base.0=C\:\\Users\\22375\\Desktop\\AndroidCar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\22375\\Desktop\\AndroidCar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

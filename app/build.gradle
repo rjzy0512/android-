@@ -1,0 +1,26 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion '25.0.2'
+
+    defaultConfig {
+        applicationId "com.example.car43"
+        minSdkVersion 8
+        targetSdkVersion 18
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:20.0.0'
+    compile files('libs/CameraUtil.jar')
+    compile files('libs/core.jar')
+    compile files('libs/tess-two.tesseract3.01-leptonica1.68-LibJPEG6b.jar')
+}

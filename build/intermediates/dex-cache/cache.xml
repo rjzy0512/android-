@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\22375\Desktop\AndroidCar\app\libs\CameraUtil.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e84c9c92c3ae683269eb11f2ff52180b6b833177">
+        <dex dex="C:\Users\22375\Desktop\AndroidCar\app\build\intermediates\pre-dexed\debug\CameraUtil_f934b9f42d1447fad10a1795f38381de5bd054dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22375\Desktop\AndroidCar\app\libs\core.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="96b67e377ff4637ff1fa3bbe9ad7183773935f39">
+        <dex dex="C:\Users\22375\Desktop\AndroidCar\app\build\intermediates\pre-dexed\debug\core_3ee67a36ac8a72c7f7fccf6abd81fd0a5d52e4e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\22375\Desktop\AndroidCar\app\libs\tess-two.tesseract3.01-leptonica1.68-LibJPEG6b.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c816d29d5c19a2a5f2cfe79f52f58589ce8550ec">
+        <dex dex="C:\Users\22375\Desktop\AndroidCar\app\build\intermediates\pre-dexed\debug\tess-two.tesseract3.01-leptonica1.68-LibJPEG6b_96033186952c380ac48b5c109661b20a2cada48f.jar" />
+    </item>
+
+</items>

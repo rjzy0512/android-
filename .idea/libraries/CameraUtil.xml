@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CameraUtil">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/CameraUtil.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

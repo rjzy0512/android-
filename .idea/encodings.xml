@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/car43/BjypcStack.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/car43/LCDCut.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/car43/RGBLuminanceSource.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/car43/StreamTool.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/car43/TxtCut.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/car43/WebService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/car43/Zfcjs.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/car43/character.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/car43/imageProcessing.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/send/Fu.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/send/LED.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/send/Zha.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/send/Zhu.java" charset="GBK" />
+  </component>
+</project>
